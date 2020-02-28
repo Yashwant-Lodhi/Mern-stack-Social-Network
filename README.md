@@ -7,3 +7,10 @@ NodeJS,  ReactJS, MongoDB, ExpressJS based social network website.
 ### * JWT
 ### * BcryptJS
 ### * Config etc
+
+## FrontEnd Packages Used:
+### * ReactJS
+### * React-DOM
+### * Redux
+### * Redux-React
+### * React-Router-DOM
